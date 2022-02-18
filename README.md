@@ -1,4 +1,4 @@
 # movie_app
 
-A new Flutter application.
+I used GetX architect to build this app.
 
